@@ -3,5 +3,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony 
+
+#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",SET
 https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
+
+#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony SAB
+https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
